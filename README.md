@@ -24,4 +24,5 @@ This code is for educational purposes, no license attaches to it.
 
 ## Screenshot
 
-
+![alt text](https://github.com/amiruddin6521/Lab-Activity-8-REST/blob/master/screenshot/1.png)
+![alt text](https://github.com/amiruddin6521/Lab-Activity-8-REST/blob/master/screenshot/2.png)
