@@ -4,7 +4,8 @@ This is a repository for Lab Activity 8-REST application. This application is us
 
 ## Function Modules
 
-This application can check current exchange rate. This application also can view all exchange rate.
+- This application can check current exchange rate.
+- This application also can view all exchange rate.
 
 ## API Reference
 
